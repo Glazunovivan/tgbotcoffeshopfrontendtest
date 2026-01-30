@@ -101,3 +101,26 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+:root {
+    --bg-color: var(--tg-theme-bg-color, #ffffff);
+    --text-color: var(--tg-theme-text-color, #212529);
+    --hint-color: var(--tg-theme-hint-color, #abb1b7);
+    --button-color: var(--tg-theme-button-color, #0088cc);
+    --button-text: var(--tg-theme-button-text-color, #ffffff);
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+.card-button {
+    cursor: pointer;
+    transition: transform 0.2s;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.card-button:active {
+    transform: scale(0.95);
+}
