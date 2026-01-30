@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CoffeeShopFrontend",
   "resources": {
-    "hash": "sha256-uAE2T259Knqzo6Q7Is+nLLtpVuwGoGuRJ3a0AvwdsIA=",
+    "hash": "sha256-FEQz8MQBrhdMk+kH6yksRheoX0W2oBqy0S3JLUi8NfI=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.uueypppxnb.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CoffeeShopFrontend.wasm": "sha256-H+lSnhGN+Z4ay0O1SrpbN15aCmSfxA3mfroHfhXAhOY=",
+      "CoffeeShopFrontend.wasm": "sha256-TiNZLMAmoew7Df/kp5gWtuthRsOGdLgKEvnu2AnLdrY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-WLGQIQ2GCX9s4ZAHUdHHcUq79kowP3JGcHsMWnX1Ug0=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-QfEtrkpquFvCm+ZXF0D0Cn3neNz6yJvHOnpckRSSuvs=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-3eOyO4ym/P4OFyhNf/04qtnuLbZdmqrUkiR7WpF8dh0=",
